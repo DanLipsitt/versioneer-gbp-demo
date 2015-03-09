@@ -1,0 +1,5 @@
+versioneer-gbp-demo (0.1.0-dirty-1) unstable; urgency=low
+
+  * source package automatically created by stdeb 0.8.5
+
+ -- Dan Lipsitt <danlipsitt@gmail.com>  Mon, 09 Mar 2015 22:11:41 +0000

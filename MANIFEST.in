@@ -1,0 +1,3 @@
+include versioneer.py
+include versioneer-gbp-demo/_version.py
+include README.md
